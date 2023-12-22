@@ -127,5 +127,7 @@ function renderVacation(vacation) {
     container.appendChild(changeBtn);
     container.appendChild(doneBtn);
 
+    
+
     return container
 };
